@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá!! Eu sou Ederson Silva
 
-<!--
-**EdersonArquiteto/EdersonArquiteto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje Trabalho com Projetos em SharePoint e em .NET
+- 🌱 Estudando atualmente NodeJS, Blockchain
+- 💬 Pergunte-me sobre: SOLID, DDD, Design Pattern
+- 📫 Contate-me: edersonarquiteto.net@gmail.com
+- 😄 Pronomes: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a href="https://www.linkedin.com/in/edersonosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.youtube.com/@jsdescomplicado18" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+ ##
+  
+<a href="https://github.com/EdersonArquiteto/github-readme-stats">
+  <img   align="center" src="https://github-readme-stats.vercel.app/api?username=EdersonArquiteto&theme=merko" />
+</a>
+<a href="https://github.com/EdersonArquiteto/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdersonArquiteto&layout=compact&langs_count=8&card_width=250&theme=merko" />
+</a>
+ 
+ ##
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,angular,cs,express,html,jquery,mysql,nestjs,nodejs,rabbitmq,react,mongodb" />
+  </a>
+</p>
